@@ -7,7 +7,7 @@
   color: $header-heading-color;
   text-align: center;
   background-color: #036bfc;
-  background-image: https://github.com/dreadfulrel/van-blog/blob/main/docs/assets/images/VanBlogBackground.png;
+  background-image: url('../images/VanBlogBackground.png');
 
   @include large {
     padding: 5rem 6rem;
