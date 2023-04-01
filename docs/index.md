@@ -1,9 +1,4 @@
 ---
 layout: blog
+collectionpage: posts
 ---
-<main class="main container">
-    <div class="content">
-        {% include post-list.html %}
-    </div>
-    {% include site-aside.html %}
-</main>
